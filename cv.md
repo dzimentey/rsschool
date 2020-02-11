@@ -12,7 +12,7 @@ I’ve got skills in *html*, *css*, *seo*, some experience at *web perfomance* a
 
 Currently i’m learning at rs school and taking courses in html academy.
 
-i’ve already done some websites for myself and some for my customers, the last one is usav.by.
+I’ve already done some websites for myself and some for my customers, the last one is usav.by.
 
 I graduated from Polytechnic College and Institute of economic and lows.
 
