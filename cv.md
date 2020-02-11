@@ -13,3 +13,9 @@ I’ve got skills in html, css, seo, some experience at web perfomance and work 
 Currently i’m learning at rs school and taking courses in html academy.
 
 i’ve already done some websites for myself and some for my customers, the last one is usav.by.
+
+I graduated from Polytechnic College and Institute of economic and lows.
+
+Level of my english is A2, but i keeping training to increase it.
+
+I use Duolingo and Dr. Pimsleur courses for english learning and practice.
