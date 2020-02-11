@@ -2,9 +2,9 @@ Hello. My name is **Dzimen Tey**.
 
 You can contact me at these addresses:
 
--Gmail: dzimentey@gmail.com
+- Gmail: dzimentey@gmail.com
 
--Discord: DzimenTey(@dzimentey)
+- Discord: DzimenTey(@dzimentey)
 
 I would like to become a professional front end developer and get a lot of experience in this area.
 
