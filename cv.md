@@ -6,13 +6,13 @@ You can contact me at these addresses:
 
 - Discord: DzimenTey(@dzimentey)
 
-I would like to become a professional front end developer and get a lot of experience in this area.
+I would like to become a full-time professional front end developer and get a lot of experience in this area.
 
-I’ve got skills in *html*, *css*, *seo*, js, some experience at *web perfomance* and work with *web servers*.
+I’ve got skills in *html*, *css*, *seo*, js, *ts*, some experience at *web perfomance* and work with *web servers*.
 
-Currently i’m learning at rs school and taking courses in html academy.
+I learned at Rs school and got courses in html academy.
 
-I’ve already done some websites for myself and some for my frienda and customers.
+I’ve already made some websites for myself and some for my friends and customers.
 
 I graduated from Polytechnic College and Institute of economic and laws.
 
