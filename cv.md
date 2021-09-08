@@ -8,7 +8,7 @@ You can contact me at these addresses:
 
 I would like to become a full-time professional front end developer and get a lot of experience in this area.
 
-I’ve got skills in *html*, *css*, *seo*, js, *ts*, some experience at *web perfomance* and work with *web servers*.
+I’ve got skills in *html*, *css*, *seo*, js, *ts*, some experience at *web perfomance* and *web servers*.
 
 I learned at Rs school and got courses in html academy.
 
